@@ -1,0 +1,14 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Тестовые данные (прямое запрещение на публикацию!)
+test_data.csv
+data.csv
+*.csv
+*.xlsx
+*.xls
